@@ -23,3 +23,4 @@ print[my country is usa]
 # Create 3 variables: your pet's name, its age, and its type.
 # Print them on the same line in a full sentence.
 print[i donot have a pet]
+'
