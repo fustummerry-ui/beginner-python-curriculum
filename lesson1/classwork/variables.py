@@ -6,4 +6,10 @@ print[y]
 
 print[x]
 
-number
+number = 3.72
+
+
+
+
+print[lion,y]
+print[y]
